@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CIV Musical Structure App</string>
+    <string name="album_icon">album_icon</string>
+    <string name="category_playlists">Playlists</string>
+    <string name="category_albums">Albums</string>
+    <string name="category_titles">Titles</string>
+    <string name="category_artists">Artists</string>
+</resources>
